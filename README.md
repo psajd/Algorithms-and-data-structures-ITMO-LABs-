@@ -6,6 +6,8 @@ My collection of basic things from the course of Algorithms and data structures.
 
 
 ## Contents
+
+
 ## Basic data structures and sort algorithms
 ### 1. [Introduction to psms](http://neerc.ifmo.ru/teaching/disalgo/problems/problems1.pdf)
 		1) a + b
