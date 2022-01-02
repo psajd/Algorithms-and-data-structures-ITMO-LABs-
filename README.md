@@ -6,7 +6,7 @@ My collection of basic things from the course of Algorithms and data structures.
 
 
 ## Contents
-------------------------------------------------------Basic data structures and sort algorithms----------------------------------------
+## Basic data structures and sort algorithms
 ### 1. [Introduction to psms](http://neerc.ifmo.ru/teaching/disalgo/problems/problems1.pdf)
 		1) a + b
 		2) a + b^2
@@ -47,7 +47,7 @@ My collection of basic things from the course of Algorithms and data structures.
 		3) addition to avl tree
 		4) deletion in alv tree
 		5) avlSet
------------------------------------------------------------Graphs Algorithms---------------------------------------------------------------
+## Graphs Algorithms
 ### 8. [Graphs: basic definitions and breadth-first search](http://neerc.ifmo.ru/teaching/disalgo/problems/problems8.pdf).
 		1) from the edge list to the adjacency matrix, directed graph
 		2) checking for disorientation
