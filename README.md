@@ -12,7 +12,7 @@ My collection of basic things from the course of Algorithms and data structures.
 		4) simple sotr
 		5) sortland (applied task)
 ### 2.  [Merge and quick sort](http://neerc.ifmo.ru/teaching/disalgo/problems/problems2.pdf)
-	    1) nlogn sotr
+	    1) nlogn sort
 	    2) running competitions (applied task) 
 	    3) number of array inversions
 	    4) anti quicksort
